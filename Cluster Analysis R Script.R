@@ -1,7 +1,7 @@
 # PROJECT TITLE: Cluster Analysis of the Chatterjee-Price Attitude Dataset
 # DATE CREATED: 06 October 2022 #
 # SCRIPT BY: Opeyemi Ayanwale
-# MATRIC NO: 236783
+
 
 #############################
 # R SETUP
